@@ -158,6 +158,13 @@ We could continue to investigate the scope by doing the following:
 - Look for PowerShell execution of the ransomware
 - Track downloaded scripts
 - Finally, eradicate the threat
+- Recovery is next from backups if available
+- Prevention & Hardening:
+  - Block Script Downloads
+  - Change PowerShell Execution policy
+  - Configure MS Defender Antivirus to detect .pwncrypt.ps1 via custom indicators or automated investigation
+- Finally Documenting and reporting lessons learned through a timeline of events etc. 
+
 
 ## 11:15 AM – Response Initiated
 - The VM is isolated in Defender
