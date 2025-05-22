@@ -174,4 +174,4 @@ Luckily nothing was compromised to the level that it cost financial or other dam
 
 Fortunately, we have a CISO that stays up to date on developments in the world of Cybersecurity listening to _CyberWire Daily_ when he heard about this New Zero Day.
 
-### The concludes our Threat Hunt project scenarios. Keep in mind there is always a story to tell as you Threat Hunt and discover malicious activity on your network. Unfortunatley sometimes it is an insider threat!
+### This concludes our Threat Hunt project scenarios. Keep in mind there is always a story to tell as you Threat Hunt and discover malicious activity on your network. Unfortunatley sometimes it is an insider threat!
