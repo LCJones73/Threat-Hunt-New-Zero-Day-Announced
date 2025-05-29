@@ -1,4 +1,7 @@
 # Threat Hunt New Zero Day Announced
+
+## It's another busy day at CypherT3ch and the CISO has just gotten into the office. He has some concerns he wants the SOC to look into
+
 A new ransomware strain named PwnCrypt has been reported in the news, highlighted in the daily briefing from _CyberWire Daily_. The CISO is concerned with the new ransomware strain being spread to the corporate network and wishes to investigate.
 
 ## 9:55 AM – News Breaks
